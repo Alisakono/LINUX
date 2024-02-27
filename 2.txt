@@ -1,0 +1,5 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   44wer    1780    1779 pty0     11:04:08 /usr/bin/bash
+   44wer    1915    1780 pty0     11:43:01 /usr/bin/ps
+   44wer    1779       1 ?        11:04:08 /usr/bin/mintty
+   44wer    1675       1 cons0    08:41:31 /usr/bin/bash
